@@ -49,3 +49,7 @@ img {
 h2 {
     text-align: center;
 }
+
+.test{
+    border:solid 1px, black;
+}
